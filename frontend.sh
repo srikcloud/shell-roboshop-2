@@ -36,3 +36,4 @@ systemctl restart nginx
 VALIDATE $? "Restarting nginx"
 
 print_time
+
